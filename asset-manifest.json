@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-redux-cart/static/css/main.23e9a0bb.css",
+    "main.js": "/practice-redux-cart/static/js/main.e811d2dd.js",
+    "index.html": "/practice-redux-cart/index.html",
+    "main.23e9a0bb.css.map": "/practice-redux-cart/static/css/main.23e9a0bb.css.map",
+    "main.e811d2dd.js.map": "/practice-redux-cart/static/js/main.e811d2dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e9a0bb.css",
+    "static/js/main.e811d2dd.js"
+  ]
+}
